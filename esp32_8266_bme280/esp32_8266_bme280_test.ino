@@ -1,9 +1,6 @@
 /***************************************************************************
   This is a library for the BMP280 humidity, temperature & pressure sensor
 
-  Designed specifically to work with the Adafruit BMEP280 Breakout 
-  ----> http://www.adafruit.com/products/2651
-
   These sensors use I2C or SPI to communicate, 2 or 4 pins are required 
   to interface.
 
